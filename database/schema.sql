@@ -1,5 +1,4 @@
 
-
 CREATE TABLE dbo.clients ( 
     id int IDENTITY(1,1) NOT NULL, 
     name nvarchar(120) NOT NULL, 
